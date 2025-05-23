@@ -1,4 +1,4 @@
-package 復習問題;
+package reviews.reviews1;
 
 import java.io.*;
 public class Review9 {
